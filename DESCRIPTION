@@ -9,4 +9,7 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     DBI,
+    gh,
     readr
+URL: https://github.com/DataStrategyPro/dbt
+BugReports: https://github.com/DataStrategyPro/dbt/issues
