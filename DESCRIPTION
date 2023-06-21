@@ -1,0 +1,12 @@
+Package: dbt
+Type: Package
+Title: Database Tools
+Version: 0.1.0
+Author: jonathan@datastrategypro.com
+Description: A collection of tools for exploring and validating databases
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    DBI,
+    readr
